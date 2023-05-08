@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "customalert",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/divadretlaw/CustomAlert.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c4ae05a81b360dacaa81d0456a0fcff83c12f33c"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6299daec1d74be12164fec090faf9ed14d0da9d6"
+      }
+    },
+    {
+      "identity" : "popupview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/PopupView.git",
+      "state" : {
+        "revision" : "3c82a7d09ba44e1c7d8a2f7d17657de2e03d0f24",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "windowscenereader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/divadretlaw/WindowSceneReader",
+      "state" : {
+        "revision" : "8700ee5260654666a63d8a21581a63a2972baf32",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
